@@ -1,0 +1,8 @@
+An application made with express to send notifications to my application/(s?)
+and be able to send ones to a db to then read in the app and have a thing like
+an history of important events for people that couldn't watch the notifications
+
+Other thing that probably have firebase but i want to do is the ability to
+program notifications but doing other stuff to
+
+Anyway i probably will be hitting the firebase api :P
